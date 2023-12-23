@@ -31,5 +31,10 @@ Exactly what it means. Mainly .md files of my notes while I study.
 These are small projects that are pushed by learning websites, courses, schools, etc. 
 Each individual project is its own file.
 
+Currently includes projects/learning material from:
+- Codeacademy
+- The Odin Project (TOP)
+- Youtube Walkthroughs
+
 ### Projects
 Finished personal projects.
