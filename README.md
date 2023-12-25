@@ -1,6 +1,16 @@
-| Start Date | Language | Projects |
+<html>
+<head>
+<style>
+  div {
+    text-align: center;
+  }
+  </style>
+  </head>
+</html>
+
+<div>| Start Date | Language | Projects |
 |---|---|---|
-| <center>2023-11-27</center> | <ul><li>Python</li><li>HTML</li><li>CSS</li></ul> | <center>4</center> |
+| 2023-11-27 | <ul><li>Python</li><li>HTML</li><li>CSS</li></ul> | 4 |</div>
 ---
 
 # My Journey with Python
