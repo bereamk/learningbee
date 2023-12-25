@@ -1,8 +1,6 @@
----
-Start Date: 2023-11-27
-Language:
-  - Python
-Projects: 1
+| Start Date | Language | Projects |
+|---|---|---|
+| <center>2023-11-27</center> | <ul><li>Python</li><li>HTML</li><li>CSS</li></ul> | <center>4</center> |
 ---
 
 # My Journey with Python
