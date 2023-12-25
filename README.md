@@ -1,6 +1,9 @@
+<details>
+<summary>Bonus Info</summary>
 | Start Date | Language | Projects |
-|---|---|---|
+| :---: | :---: | :---: |
 | 2023-11-27 | <ul><li>Python</li><li>HTML</li><li>CSS</li></ul> | 4 |
+</details>
 ---
 
 # My Journey with Python
