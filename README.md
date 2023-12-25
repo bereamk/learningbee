@@ -1,7 +1,7 @@
 <details>
 <summary>Bonus Info</summary>
 
-Start Date: 2023-11-27
+Start Date: 2023-11-27<br>
 Languages: <ul><li>Python</li><li>HTML</li><li>CSS</li></ul>
 
 </details>
