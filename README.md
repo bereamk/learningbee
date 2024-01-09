@@ -30,6 +30,7 @@ Each individual project is its own file.
 Currently includes projects/learning material from:
 - Codeacademy
 - The Odin Project (TOP)
+- University
 - Youtube Walkthroughs
 
 ### Projects
