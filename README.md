@@ -13,25 +13,25 @@ I'm a beginner with understanding coding. This repository is where I'm keeping a
 
 This repository will contain:
 - notes
-- learning projects
+- learning
 - projects
 
 Currently I use Visual Studio Code to help push and pull files.
 
 ---
 
-## Notes
+## 🏫 Notes
 Exactly what it means. Mainly .md files of my notes while I study. 
 
-## Learning Projects
-These are small projects that are pushed by learning websites, courses, schools, etc. 
-Each individual project is its own file.
+## 💻 Learning
+As I learn new technologies and techniques, I often work on small-scale projects and exercises (this includes my academic work).
+Each individual learning platform/method has its own folder and files within.
 
-Currently includes projects/learning material from:
+Currently includes learning material from:
 - Codeacademy
 - The Odin Project (TOP)
 - University
-- Youtube Walkthroughs
+- Youtube Tutorials
 
-## Projects
+## 🚀 Projects
 Finished personal projects.
