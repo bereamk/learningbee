@@ -20,10 +20,10 @@ Currently I use Visual Studio Code to help push and pull files.
 
 ---
 
-### Notes
+## Notes
 Exactly what it means. Mainly .md files of my notes while I study. 
 
-### Learning Projects
+## Learning Projects
 These are small projects that are pushed by learning websites, courses, schools, etc. 
 Each individual project is its own file.
 
@@ -33,5 +33,5 @@ Currently includes projects/learning material from:
 - University
 - Youtube Walkthroughs
 
-### Projects
+## Projects
 Finished personal projects.
