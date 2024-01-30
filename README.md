@@ -24,15 +24,17 @@ Currently I use Visual Studio Code to help push and pull files.
 Exactly what it means. Mainly .md files of my notes while I study. 
 
 ## Learning
-As I learn new technologies and techniques, I often work on small-scale projects and exercises (this includes my academic work).
+As I learn new technologies and techniques, I often work on small-scale projects and exercises.
 <br>
 Each individual learning platform/method has its own folder and files within.
 
 Currently includes learning material from:
 - Codeacademy
 - The Odin Project (TOP)
-- University
 - Youtube Tutorials
 
 ## Projects
 Finished personal projects.
+
+## Challenges
+I'm part of multiple discords and sometimes these discords will post coding challenges. Any of the ones I've attempted/completed are in this folder.
