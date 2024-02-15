@@ -3,12 +3,11 @@
 #
 #   Python code
 #   Name: Robinson, Berea
-#   Course/Section: CMSC 105/6387
 #   Date: 2024-01-30
-
+#
 #   Objective: 
-#       This program is a call back to the loan calculator I did during week 2
-#       But more concise and calculations within its own functions.
+#       This program works as a loan calculator that will ask for the interest
+#       rate, loan amount, and time period the loan is for. 
 #
 #===========================================================================
 
@@ -51,14 +50,19 @@ def loanCalculation(interestRate1,loanAmount1,loanTime1,years1):
     # Calculate the amount of interest accrued
     interestTotal = loanAmount1 * interestRate1 * loanTime1
 
+    # Calculate the amount of total months
     months = years1 * 12
 
     # Calculate the total amount of future value/amount accumulated
     loanTotal = ((interestRate1 * loanTime1) + 1) * loanAmount1
 
+    # Calculate the interest paid per month
     interestperMonth = (interestTotal/months)
+
+    # Calculate the loan payment per month
     loanperMonth = (loanTotal/months)
 
+    # Calculate the total payment of loan/principle and interest
     monthlyTotal = interestperMonth + loanperMonth
 
     return interestTotal, loanTotal, interestperMonth, loanperMonth, monthlyTotal
