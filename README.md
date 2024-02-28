@@ -12,18 +12,20 @@ Welcome. Don't know how you got here, but welcome!
 I'm dipping my toe into the coding/programming world. This repository is where I'm keeping all of my learning so that I can look back on it to see my progress whenever I feel discouraged. 
 
 This repository will contain:
+- challenges
+- learning_projects
 - notes
-- learning
 - projects
+- uni
 
 Currently I use Visual Studio Code to help push and pull files.
 
 ---
 
-## Notes
-Exactly what it means. Mainly .md files of my notes while I study. 
+## Challenges
+I'm part of multiple discords and sometimes these discords will post coding challenges. Any of the ones I've attempted/completed are in this folder.
 
-## Learning
+## Learning_projects
 As I learn new technologies and techniques, I often work on small-scale projects and exercises.
 <br>
 Each individual learning platform/method has its own folder and files within.
@@ -33,8 +35,11 @@ Currently includes learning material from:
 - The Odin Project (TOP)
 - Youtube Tutorials
 
+## Notes
+Exactly what it means. Mainly .md files of my notes while I study. 
+
 ## Projects
 Finished personal projects.
 
-## Challenges
-I'm part of multiple discords and sometimes these discords will post coding challenges. Any of the ones I've attempted/completed are in this folder.
+## Uni
+Contains all the work I've done for university.
