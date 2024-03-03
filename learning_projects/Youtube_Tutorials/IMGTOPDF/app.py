@@ -1,3 +1,24 @@
+#===========================================================================
+#  *                                 INFO
+#
+#   Python code
+#   Name: Robinson, Berea
+#   Date: 2024-03-03
+#
+#   Objective: 
+#       This program opens up a window that allows the user to select image 
+#       files and convert them to a PDF file.
+#
+#    Take aways:
+#       Coding is hard. But I'm excited to see that UI's can be created with
+#       Python. It's shown me that I have so much to learn, and it's definitely
+#       worth learning and understanding tkinter as a way to create apps.
+#       Admitedly, this was a program made with heavy reliant on a youtube 
+#       video. I wish I could come up with this on my own, but I'm glad I
+#       have a starting point to work from.
+#
+#===========================================================================
+
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
