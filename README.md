@@ -40,6 +40,3 @@ Exactly what it means. Mainly .md files of my notes while I study.
 
 ## Projects
 Finished personal projects.
-
-## Uni
-Contains all the work I've done for university.
